@@ -5,7 +5,7 @@ const client = new Client({
   password: "Jatin@465697",
   host: "localhost",
   port: 5432,
-  database: "price peek2",
+  database: "jatinpandit",
 });
 client.connect();
 
